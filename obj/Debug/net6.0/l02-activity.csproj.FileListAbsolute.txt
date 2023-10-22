@@ -1,0 +1,15 @@
+C:\Users\sean_\Desktop\csharp-course\l02-activity\bin\Debug\net6.0\l02-activity.exe
+C:\Users\sean_\Desktop\csharp-course\l02-activity\bin\Debug\net6.0\l02-activity.deps.json
+C:\Users\sean_\Desktop\csharp-course\l02-activity\bin\Debug\net6.0\l02-activity.runtimeconfig.json
+C:\Users\sean_\Desktop\csharp-course\l02-activity\bin\Debug\net6.0\l02-activity.dll
+C:\Users\sean_\Desktop\csharp-course\l02-activity\bin\Debug\net6.0\l02-activity.pdb
+C:\Users\sean_\Desktop\csharp-course\l02-activity\obj\Debug\net6.0\l02-activity.csproj.AssemblyReference.cache
+C:\Users\sean_\Desktop\csharp-course\l02-activity\obj\Debug\net6.0\l02-activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sean_\Desktop\csharp-course\l02-activity\obj\Debug\net6.0\l02-activity.AssemblyInfoInputs.cache
+C:\Users\sean_\Desktop\csharp-course\l02-activity\obj\Debug\net6.0\l02-activity.AssemblyInfo.cs
+C:\Users\sean_\Desktop\csharp-course\l02-activity\obj\Debug\net6.0\l02-activity.csproj.CoreCompileInputs.cache
+C:\Users\sean_\Desktop\csharp-course\l02-activity\obj\Debug\net6.0\l02-activity.dll
+C:\Users\sean_\Desktop\csharp-course\l02-activity\obj\Debug\net6.0\refint\l02-activity.dll
+C:\Users\sean_\Desktop\csharp-course\l02-activity\obj\Debug\net6.0\l02-activity.pdb
+C:\Users\sean_\Desktop\csharp-course\l02-activity\obj\Debug\net6.0\l02-activity.genruntimeconfig.cache
+C:\Users\sean_\Desktop\csharp-course\l02-activity\obj\Debug\net6.0\ref\l02-activity.dll
